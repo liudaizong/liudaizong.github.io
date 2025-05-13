@@ -1,7 +1,7 @@
 ---
 permalink: /service/
 title: "Academic Services "
-modified: 2023-12-09
+layout: archive
 ---
 Honor
 * NeurIPS20204 Top Reviewer
