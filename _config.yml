@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : # "Your Sidebar Name"
-  avatar           : "profile0.png"
-  bio              : # "Your biography for the left-hand sidebar"
+  name             : "Daizong Liu"
+  avatar           : "DaizongLiu.jpeg"
+  bio              : "PhD student at Wangxuan Institute of Computer Technology, Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   LinkedIn         : #"https://www.linkedin.com/in/chengyu05/"
-  orcid            : #"http://orcid.org/my-orcid?orcid=0000-0002-7901-8662"
+  orcid            : "https://orcid.org/0000-0001-8179-4508"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"@YuCheng348997"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
