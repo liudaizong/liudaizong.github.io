@@ -7,6 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 2025
+* Cooperative or Competitive? Understanding the Interaction between Attention Heads From A Game Theory Perspective. Xiaoye Qu, Zengqi Yu, Dongrui Liu, Wei Wei, **Daizong Liu**, Jianfeng Dong, Yu Cheng. The 63rd Annual Meeting of the Association for Computational Linguistics, **[ACL2025]**
 * Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation. Xiaoye Qu, Qiyuan Chen, Wei Wei, Jiashuo Sun, **Daizong Liu**, Jianfeng Dong. ACM Transactions on Multimedia Computing, Communications and Applications, **[TOMM]**
 * Open-World Fine-Grained Fashion Retrieval with LLM-based Commonsense Knowledge Infusion. Jianfeng Dong, Junwei Zhu, **Daizong Liu**, Xiaoye Qu, Cuizhu Bao, Zhike Han, Jixiang Zhu, Xun Wang. International ACM SIGIR Conference on Research and Development in Information Retrieval, **[SIGIR2025]**
 * Imperceptible Beam-Sensitive Adversarial Attacks for LiDAR-based Object Detection in Autonomous Driving. Fuyao Cai, **Daizong Liu#**, Xiang Fang, Jixiang Yu, Keke Tang, Pan Zhou. IEEE International Conference on Multimedia & Expo, **[ICME2025]**
