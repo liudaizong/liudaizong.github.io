@@ -14,5 +14,6 @@ My broad research interests include Multimodal Reasoning, 3D Point Cloud Represe
 
 Latest News
 ======
+* [2025/05] One paper is accepted by ACL 2025!
 * [2025/04] One paper is accepted by SIGIR 2025!
 * [2025/03] One paper is accepted by CVPR 2025!
