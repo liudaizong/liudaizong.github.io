@@ -17,11 +17,9 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
   - title: "Honors"
-    url: /year-archive/
+    url: /portfolio/
+        
     
   # - title: "CV"
   #   url: /cv/
