@@ -7,6 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 2025
+* *A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions*.<br/> **Daizong Liu**, Yang Liu, Wencan Huang, Wei Hu.<br/> IEEE Transactions on Neural Networks and Learning Systems, **[TNNLS]**
 * *LLM-assisted Entropy-based Adaptive Distillation for Unsupervised Fine-grained Visual Representation Learning*.<br/> Jianfeng Dong, Danfeng Luo, **Daizong Liu#**, Jie Sun, Xiaoye Qu, Xun Yang, Dongsheng Liu, Xun Wang.<br/> IEEE International Conference on Computer Vision, **[ICCV2025]**
 * *Cognitive Disentanglement for Referring Multi-Object Tracking*.<br/> Shaofeng Liang, Runwei Guan, Wangwang Lian, **Daizong Liu**, Xiaolou Sun, Dongming Wu, Yutao Yue, Weiping Ding, Hui Xiong.<br/> Information Fusion, **[INFFUS]**
 * *Cooperative or Competitive? Understanding the Interaction between Attention Heads From A Game Theory Perspective*.<br/> Xiaoye Qu, Zengqi Yu, Dongrui Liu, Wei Wei, **Daizong Liu**, Jianfeng Dong, Yu Cheng.<br/> The 63rd Annual Meeting of the Association for Computational Linguistics, **[ACL2025]**
