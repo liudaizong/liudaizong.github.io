@@ -7,6 +7,8 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 2025
+* *Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval*.<br/> Junan Lin, **Daizong Liu***, Xianke Chen, Xiaoye Qu, Xun Yang, Jixiang Zhu, Sanyuan Zhang, Jianfeng Dong.<br/> ACM International Conference on Multimedia, **[ACMMM2025]**
+* *Fast3D: Accelerating 3D Multi-modal Large Language Models for Efficient 3D Scene Understanding*.<br/> Wencan Huang, **Daizong Liu**, Wei Hu.<br/> ACM International Conference on Multimedia, **[ACMMM2025]**
 * *A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions*.<br/> **Daizong Liu**, Yang Liu, Wencan Huang, Wei Hu.<br/> IEEE Transactions on Neural Networks and Learning Systems, **[TNNLS]**
 * *LLM-assisted Entropy-based Adaptive Distillation for Unsupervised Fine-grained Visual Representation Learning*.<br/> Jianfeng Dong, Danfeng Luo, **Daizong Liu#**, Jie Sun, Xiaoye Qu, Xun Yang, Dongsheng Liu, Xun Wang.<br/> IEEE International Conference on Computer Vision, **[ICCV2025]**
 * *Cognitive Disentanglement for Referring Multi-Object Tracking*.<br/> Shaofeng Liang, Runwei Guan, Wangwang Lian, **Daizong Liu**, Xiaolou Sun, Dongming Wu, Yutao Yue, Weiping Ding, Hui Xiong.<br/> Information Fusion, **[INFFUS]**
