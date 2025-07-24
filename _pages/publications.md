@@ -7,6 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 2025
+* *A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends*.<br/> **Daizong Liu**, Mingyu Yang, Xiaoye Qu, Pan Zhou, Yu Cheng, Wei Hu.<br/> IEEE Transactions on Neural Networks and Learning Systems, **[TNNLS]**
 * *Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval*.<br/> Junan Lin, **Daizong Liu***, Xianke Chen, Xiaoye Qu, Xun Yang, Jixiang Zhu, Sanyuan Zhang, Jianfeng Dong.<br/> ACM International Conference on Multimedia, **[ACMMM2025]**
 * *Fast3D: Accelerating 3D Multi-modal Large Language Models for Efficient 3D Scene Understanding*.<br/> Wencan Huang, **Daizong Liu**, Wei Hu.<br/> ACM International Conference on Multimedia, **[ACMMM2025]**
 * *A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions*.<br/> **Daizong Liu**, Yang Liu, Wencan Huang, Wei Hu.<br/> IEEE Transactions on Neural Networks and Learning Systems, **[TNNLS]**
