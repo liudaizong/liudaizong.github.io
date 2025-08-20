@@ -14,6 +14,7 @@ My broad research interests include Multimodal Reasoning, 3D Point Cloud Percept
 
 Latest News
 ======
+* [2025/08] Two papers are accepted by EMNLP 2025!
 * [2025/07] One paper is accepted by TNNLS!
 * [2025/07] Two papers are accepted by ACMMM 2025!
 * [2025/06] One paper is accepted by TNNLS!
