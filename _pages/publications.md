@@ -7,6 +7,8 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 2025
+* *Misalignment Attack on Text-To-Image Models via Text Embedding Optimization and Inversion*.<br/> Zhijie Du, **Daizong Liu#**, Pan Zhou.<br/> Conference on Empirical Methods in Natural Language Processing, **[EMNLP2025]**
+* *Learning from Few Samples: A Novel Approach for High-Quality Malcode Generation*.<br/> Haijian Ma, **Daizong Liu***, Xiaowen Cai, Yulai Xie, Pan Zhou.<br/> Conference on Empirical Methods in Natural Language Processing, **[EMNLP2025]**
 * *A Survey of Attacks on Large Vision-Language Models: Resources, Advances, and Future Trends*.<br/> **Daizong Liu**, Mingyu Yang, Xiaoye Qu, Pan Zhou, Yu Cheng, Wei Hu.<br/> IEEE Transactions on Neural Networks and Learning Systems, **[TNNLS]**
 * *Audio Does Matter: Importance-Aware Multi-Granularity Fusion for Video Moment Retrieval*.<br/> Junan Lin, **Daizong Liu***, Xianke Chen, Xiaoye Qu, Xun Yang, Jixiang Zhu, Sanyuan Zhang, Jianfeng Dong.<br/> ACM International Conference on Multimedia, **[ACMMM2025]**
 * *Fast3D: Accelerating 3D Multi-modal Large Language Models for Efficient 3D Scene Understanding*.<br/> Wencan Huang, **Daizong Liu**, Wei Hu.<br/> ACM International Conference on Multimedia, **[ACMMM2025]**
