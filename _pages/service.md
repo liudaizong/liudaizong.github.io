@@ -4,7 +4,7 @@ title: "Academic Services "
 layout: archive
 ---
 Honor
-* NeurIPS20204 Top Reviewer
+* NeurIPS2024 Top Reviewer
 * ACMMM2024 Outstanding Reviewer
 
 Conference Area Chair
