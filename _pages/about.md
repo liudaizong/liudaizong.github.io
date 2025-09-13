@@ -11,9 +11,9 @@ redirect_from:
 I am Daizong Liu (刘岱宗), a Tenure-track Assistant Professor (Ph.D. Supervisor) at Wuhan University (WHU). Prior to joining WHU, I obtained my Ph.D. degree at Wangxuan Institute of Computer Technology of Peking University (PKU) in 2025, supervised by Prof. [Wei Hu](https://www.wict.pku.edu.cn/huwei). I was the recipient of 2025 Outstanding Doctoral Dissertation Award in PKU.
 
 My broad research interests include Multimodal Reasoning, 3D Point Cloud Perception, Adversarial Robustness, and Large Vision-Language Models. I have published several papers in top conferences such as NeurIPS, SIGIR, CVPR, ICCV, ECCV, ACL, EMNLP, AAAI, ACM MM, ICDM and top journals including TPAMI, TMM and TCSVT. Below are some of my recent research topics:
-* Interaction of visual and language (Retrieval, Visual grounding, Visual question answering)
-* 3D point cloud analysis (Classification, Segmentation, Detection)
-* AI security (Adversarial robustness, Backdoor attack)
+* Multi-modality (e.g., vision, point cloud and language) learning
+* Computer vision (video analysis, action recognition, 3-D scene understanding, etc)
+* AI security (Adversarial robustness, backdoor attack)
 
 Latest News
 ======
