@@ -11,7 +11,7 @@ Conference Area Chair
 * International Conference on Learning Representations (ICLR): 2026
 
 Conference Reviewer
-* IEEE Conference on Computer Vision and Pattern Recognition (CVPR): 2022, 2023, 2024, 2025
+* IEEE Conference on Computer Vision and Pattern Recognition (CVPR): 2022, 2023, 2024, 2025, 2026
 * IEEE International Conference on Computer Vision (ICCV): 2023, 2025
 * European Conference on Computer Vision (ECCV): 2022, 2024
 * Conference on Neural Information Processing Systems (NeurIPS): 2023, 2024, 2025
