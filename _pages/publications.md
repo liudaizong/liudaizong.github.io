@@ -7,6 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 2025
+* *PRVR: Partially Relevant Video Retrieval*.<br/> Xianke Chen, **Daizong Liu**, Xun Yang, Xirong Li, Jianfeng Dong, Meng Wang, Xun Wang.<br/> IEEE Transactions on Pattern Analysis and Machine Intelligence, **[TPAMI]**
 * *Towards Building Model/Prompt-Transferable Attackers against Large Vision-Language Models*.<br/> Xiaowen Cai, **Daizong Liu***, Xiaoye Qu, Xiang Fang, Jianfeng Dong, Keke Tang, Pan Zhou, Lichao Sun, Wei Hu.<br/> The Thirty-ninth Annual Conference on Neural Information Processing Systems, **[NeurIPS2025]**
 * *Fit the Distribution: Cross-Image/Prompt Adversarial Attacks on Multimodal Large Language Models*.<br/> Hai Yan, Haijian Ma, Xiaowen Cai, **Daizong Liu#**, Zenghui Yuan, Xiaoye Qu, Jianfeng Dong, Runwei Guan, Xiang Fang, Hongyang He, Yulai Xie, Pan Zhou.<br/> The Thirty-ninth Annual Conference on Neural Information Processing Systems, **[NeurIPS2025]**
 * *Misalignment Attack on Text-To-Image Models via Text Embedding Optimization and Inversion*.<br/> Zhijie Du, **Daizong Liu#**, Pan Zhou.<br/> Conference on Empirical Methods in Natural Language Processing, **[EMNLP2025]**
