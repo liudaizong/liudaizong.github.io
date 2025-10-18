@@ -16,7 +16,7 @@ My broad research interests include Multimodal Reasoning, 3D Point Cloud Percept
 * Computer vision (video analysis, action recognition, 3-D scene understanding, etc)
 * AI security (Adversarial robustness, backdoor attack)
 
-**We are always actively recruiting interns and prospective graduate students! Welcome to contact me with your detailed CV!**
+**We are always actively recruiting interns and prospective graduate students! Welcome to contact me (daizongliu@whu.edu.cn) with your detailed CV!**
 
 Latest News
 ======
