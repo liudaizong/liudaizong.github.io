@@ -6,6 +6,11 @@ author_profile: true
 ---
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
+2026
+* *Towards Unified Vision-Language Models With Incomplete Multi-Modal Inputs*.<br/> Xiang Fang, Wanlong Fang, Changshuo Wang, Keke Tang, **Daizong Liu**, Siyi Wang, Wei Ji.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026]**
+* *Rethinking Video-language Model From the Language Input Perspective*.<br/> Xiang Fang, Wanlong Fang, Changshuo Wang, Xiaoye Qu, **Daizong Liu**.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026]**
+* *Spatial-Spectral Homogeneous Attacks on Physical-World Large Vision-Language Models*.<br/> **Daizong Liu**, Baoquan Chen, Wei Hu.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026]**
+
 2025
 * *PRVR: Partially Relevant Video Retrieval*.<br/> Xianke Chen, **Daizong Liu**, Xun Yang, Xirong Li, Jianfeng Dong, Meng Wang, Xun Wang.<br/> IEEE Transactions on Pattern Analysis and Machine Intelligence, **[TPAMI]**
 * *Towards Building Model/Prompt-Transferable Attackers against Large Vision-Language Models*.<br/> Xiaowen Cai, **Daizong Liu***, Xiaoye Qu, Xiang Fang, Jianfeng Dong, Keke Tang, Pan Zhou, Lichao Sun, Wei Hu.<br/> The Thirty-ninth Annual Conference on Neural Information Processing Systems, **[NeurIPS2025]**
