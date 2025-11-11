@@ -7,13 +7,13 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 2026
-* *Towards Unified Vision-Language Models With Incomplete Multi-Modal Inputs*.<br/> Xiang Fang, Wanlong Fang, Changshuo Wang, Keke Tang, **Daizong Liu**, Siyi Wang, Wei Ji.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026]**
-* *Rethinking Video-language Model From the Language Input Perspective*.<br/> Xiang Fang, Wanlong Fang, Changshuo Wang, Xiaoye Qu, **Daizong Liu**.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026]**
+* *Towards Unified Vision-Language Models With Incomplete Multi-Modal Inputs*.<br/> Xiang Fang, Wanlong Fang, Changshuo Wang, Keke Tang, **Daizong Liu**, Siyi Wang, Wei Ji.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026][Oral]**
+* *Rethinking Video-language Model From the Language Input Perspective*.<br/> Xiang Fang, Wanlong Fang, Changshuo Wang, Xiaoye Qu, **Daizong Liu**.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026][Oral]**
 * *Spatial-Spectral Homogeneous Attacks on Physical-World Large Vision-Language Models*.<br/> **Daizong Liu**, Baoquan Chen, Wei Hu.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026]**
 
 2025
 * *PRVR: Partially Relevant Video Retrieval*.<br/> Xianke Chen, **Daizong Liu**, Xun Yang, Xirong Li, Jianfeng Dong, Meng Wang, Xun Wang.<br/> IEEE Transactions on Pattern Analysis and Machine Intelligence, **[TPAMI]**
-* *Towards Building Model/Prompt-Transferable Attackers against Large Vision-Language Models*.<br/> Xiaowen Cai, **Daizong Liu***, Xiaoye Qu, Xiang Fang, Jianfeng Dong, Keke Tang, Pan Zhou, Lichao Sun, Wei Hu.<br/> The Thirty-ninth Annual Conference on Neural Information Processing Systems, **[NeurIPS2025]**
+* *Towards Building Model/Prompt-Transferable Attackers against Large Vision-Language Models*.<br/> Xiaowen Cai, **Daizong Liu***, Xiaoye Qu, Xiang Fang, Jianfeng Dong, Keke Tang, Pan Zhou, Lichao Sun, Wei Hu.<br/> The Thirty-ninth Annual Conference on Neural Information Processing Systems, **[NeurIPS2025][Spotlight]**
 * *Fit the Distribution: Cross-Image/Prompt Adversarial Attacks on Multimodal Large Language Models*.<br/> Hai Yan, Haijian Ma, Xiaowen Cai, **Daizong Liu#**, Zenghui Yuan, Xiaoye Qu, Jianfeng Dong, Runwei Guan, Xiang Fang, Hongyang He, Yulai Xie, Pan Zhou.<br/> The Thirty-ninth Annual Conference on Neural Information Processing Systems, **[NeurIPS2025]**
 * *Misalignment Attack on Text-To-Image Models via Text Embedding Optimization and Inversion*.<br/> Zhijie Du, **Daizong Liu#**, Pan Zhou.<br/> Conference on Empirical Methods in Natural Language Processing, **[EMNLP2025]**
 * *Learning from Few Samples: A Novel Approach for High-Quality Malcode Generation*.<br/> Haijian Ma, **Daizong Liu***, Xiaowen Cai, Yulai Xie, Pan Zhou.<br/> Conference on Empirical Methods in Natural Language Processing, **[EMNLP2025]**
@@ -23,7 +23,7 @@ author_profile: true
 * *A Survey on Text-guided 3D Visual Grounding: Elements, Recent Advances, and Future Directions*.<br/> **Daizong Liu**, Yang Liu, Wencan Huang, Wei Hu.<br/> IEEE Transactions on Neural Networks and Learning Systems, **[TNNLS]**
 * *LLM-assisted Entropy-based Adaptive Distillation for Unsupervised Fine-grained Visual Representation Learning*.<br/> Jianfeng Dong, Danfeng Luo, **Daizong Liu#**, Jie Sun, Xiaoye Qu, Xun Yang, Dongsheng Liu, Xun Wang.<br/> IEEE International Conference on Computer Vision, **[ICCV2025]**
 * *Cognitive Disentanglement for Referring Multi-Object Tracking*.<br/> Shaofeng Liang, Runwei Guan, Wangwang Lian, **Daizong Liu**, Xiaolou Sun, Dongming Wu, Yutao Yue, Weiping Ding, Hui Xiong.<br/> Information Fusion, **[INFFUS]**
-* *Cooperative or Competitive? Understanding the Interaction between Attention Heads From A Game Theory Perspective*.<br/> Xiaoye Qu, Zengqi Yu, Dongrui Liu, Wei Wei, **Daizong Liu**, Jianfeng Dong, Yu Cheng.<br/> The 63rd Annual Meeting of the Association for Computational Linguistics, **[ACL2025]**
+* *Cooperative or Competitive? Understanding the Interaction between Attention Heads From A Game Theory Perspective*.<br/> Xiaoye Qu, Zengqi Yu, Dongrui Liu, Wei Wei, **Daizong Liu**, Jianfeng Dong, Yu Cheng.<br/> The 63rd Annual Meeting of the Association for Computational Linguistics, **[ACL2025][Oral]**
 * *Alleviating Hallucination in Large Vision-Language Models with Active Retrieval Augmentation*.<br/> Xiaoye Qu, Qiyuan Chen, Wei Wei, Jiashuo Sun, **Daizong Liu**, Jianfeng Dong.<br/> ACM Transactions on Multimedia Computing, Communications and Applications, **[TOMM]**
 * *Open-World Fine-Grained Fashion Retrieval with LLM-based Commonsense Knowledge Infusion*.<br/> Jianfeng Dong, Junwei Zhu, **Daizong Liu**, Xiaoye Qu, Cuizhu Bao, Zhike Han, Jixiang Zhu, Xun Wang.<br/> International ACM SIGIR Conference on Research and Development in Information Retrieval, **[SIGIR2025]**
 * *Imperceptible Beam-Sensitive Adversarial Attacks for LiDAR-based Object Detection in Autonomous Driving*.<br/> Fuyao Cai, **Daizong Liu#**, Xiang Fang, Jixiang Yu, Keke Tang, Pan Zhou.<br/> IEEE International Conference on Multimedia & Expo, **[ICME2025]**
@@ -39,8 +39,8 @@ author_profile: true
 * *Temporal Sentence Grounding with Relevance Feedback in Videos*.<br/> Jianfeng Dong, Xiaoman Peng, **Daizong Liu#**, Xiaoye Qu, Xun Yang, Cuizhu Bao, Meng Wang.<br/> The Thirty-eighth Annual Conference on Neural Information Processing Systems, **[NeurIPS2024]**
 * *Frequency-Aware GAN for Imperceptible Transfer Attack on 3D Point Clouds*.<br/> Xiaowen Cai, Yunbo Tao, **Daizong Liu#**, Pan Zhou, Xiaoye Qu, Jianfeng Dong, Keke Tang, Lichao Sun.<br/> ACM International Conference on Multimedia, **[ACMMM2024]**
 * *Advancing 3D Object Grounding Beyond a Single 3D Scene*.<br/> Wencan Huang, **Daizong Liu**, Wei Hu.<br/> ACM International Conference on Multimedia, **[ACMMM2024]**
-* *Cross-Task Knowledge Transfer for Semi-supervised Joint 3D Grounding and Captioning*.<br/> Yang Liu, **Daizong Liu***, Zongming Guo, Wei Hu.<br/> ACM International Conference on Multimedia, **[ACMMM2024]**
-* *Not All Inputs Are Valid: Towards Open-Set Video Moment Retrieval using Language*.<br/> Xiang Fang, Wanlong Fang, **Daizong Liu***, Xiaoye Qu, Jianfeng Dong, Pan Zhou, Renfu Li, Zichuan Xu, Lixing Chen, Panpan Zheng, Yu Cheng.<br/> ACM International Conference on Multimedia, **[ACMMM2024]**
+* *Cross-Task Knowledge Transfer for Semi-supervised Joint 3D Grounding and Captioning*.<br/> Yang Liu, **Daizong Liu***, Zongming Guo, Wei Hu.<br/> ACM International Conference on Multimedia, **[ACMMM2024][Oral]**
+* *Not All Inputs Are Valid: Towards Open-Set Video Moment Retrieval using Language*.<br/> Xiang Fang, Wanlong Fang, **Daizong Liu***, Xiaoye Qu, Jianfeng Dong, Pan Zhou, Renfu Li, Zichuan Xu, Lixing Chen, Panpan Zheng, Yu Cheng.<br/> ACM International Conference on Multimedia, **[ACMMM2024][Oral]**
 * *Hiding Imperceptible Noise in Curvature-Aware Patches for 3D Point Cloud Attack*.<br/> Mingyu Yang, **Daizong Liu***, Keke Tang, Pan Zhou, Lixing Chen, Junyang Chen.<br/> European Conference on Computer Vision, **[ECCV2024]**
 * *FLAT: Flux-aware Imperceptible Adversarial Attacks on 3D Point Clouds*.<br/> Keke Tang, Lujie Huang, Weilong Peng, **Daizong Liu**, Xiaofei Wang, Yang Ma, Ligang Liu, Zhihong Tian.<br/> European Conference on Computer Vision, **[ECCV2024]**
 * *Rethinking Weakly-supervised Video Temporal Grounding From a Game Perspective*.<br/> Xiang Fang, Zeyu Xiong, Wanlong Fang, Xiaoye Qu, Chen Chen, Jianfeng Dong, Keke Tang, Pan Zhou, Yu Cheng, **Daizong Liu#**.<br/> European Conference on Computer Vision, **[ECCV2024]**
@@ -71,8 +71,8 @@ author_profile: true
 * *Jointly Visual- and Semantic-Aware Graph Memory Networks for Temporal Sentence Localization in Videos*.<br/> **Daizong Liu**, Pan Zhou.<br/> IEEE International Conference on Acoustics, Speech and Signal Processing, **[ICASSP2023]**
 * *Tracking Objects and Activities with Attention for Temporal Sentence Grounding*.<br/> Zeyu Xiong, **Daizong Liu***, Pan Zhou, Jiahao Zhu.<br/> IEEE International Conference on Acoustics, Speech and Signal Processing, **[ICASSP2023]**
 * *Exploring Optical-Flow-Guided Motion and Detection-Based Appearance for Temporal Sentence Grounding*.<br/> **Daizong Liu**, Xiang Fang, Wei Hu, Pan Zhou.<br/> IEEE Transactions on Multimedia, **[TMM]**
-* *Distantly-Supervised Named Entity Recognition with Adaptive Teacher Learning and Fine-grained Student Ensemble*.<br/> Xiaoye Qu, Jun Zeng, **Daizong Liu**, Zhefeng Wang, Baoxing Hua, Pan Zhou.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2023]**
-* *Hypotheses Tree Building for One-Shot Temporal Sentence Localization*.<br/> **Daizong Liu**, Xiang Fang, Pan Zhou, Xing Di, Weining Lu, Yu Cheng.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2023]**
+* *Distantly-Supervised Named Entity Recognition with Adaptive Teacher Learning and Fine-grained Student Ensemble*.<br/> Xiaoye Qu, Jun Zeng, **Daizong Liu**, Zhefeng Wang, Baoxing Hua, Pan Zhou.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2023][Oral]**
+* *Hypotheses Tree Building for One-Shot Temporal Sentence Localization*.<br/> **Daizong Liu**, Xiang Fang, Pan Zhou, Xing Di, Weining Lu, Yu Cheng.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2023][Oral]**
 
 2022
 * *Imperceptible Transfer Attack and Defense on 3D Point Cloud Classification*.<br/> **Daizong Liu**, Wei Hu.<br/> IEEE Transactions on Pattern Analysis and Machine Intelligence, **[TPAMI]**
@@ -82,7 +82,7 @@ author_profile: true
 * *Rethinking Graph Neural Networks for Unsupervised Video Object Segmentation*.<br/> **Daizong Liu**, Wei Hu.<br/> The 33rd British Machine Vision Conference, **[BMVC2022]**
 * *Learning to Focus on the Foreground for Temporal Sentence Grounding*.<br/> **Daizong Liu**, Wei Hu.<br/> International Conference on Computational Linguistics, **[COLING2022]**
 * *Exploring the Devil in Graph Spectral Domain for 3D Point Cloud Attacks*.<br/> Qianjiang Hu, **Daizong Liu***, Wei Hu.<br/> European Conference on Computer Vision, **[ECCV2022]**
-* *Reducing the Vision and Language Bias for Temporal Sentence Grounding*.<br/> **Daizong Liu**, Wei Hu.<br/> ACM International Conference on Multimedia, **[ACMMM2022]**
+* *Reducing the Vision and Language Bias for Temporal Sentence Grounding*.<br/> **Daizong Liu**, Xiaoye Qu, Wei Hu.<br/> ACM International Conference on Multimedia, **[ACMMM2022][Oral]**
 * *Skimming, Locating, then Perusing: A Human-Like Framework for Natural Language Video Localization*.<br/> **Daizong Liu**, Wei Hu.<br/> ACM International Conference on Multimedia, **[ACMMM2022]**
 * *A Hybird Alignment Loss for Temporal Moment Localization with Natural Language*.<br/> Chao Guo, **Daizong Liu***, Pan Zhou.<br/> IEEE International Conference on Multimedia & Expo, **[ICME2022]**
 * *Exploring Motion and Appearance Information for Temporal Sentence Grounding*.<br/> **Daizong Liu**, Xiaoye Qu, Pan Zhou, Yang Liu.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2022]**
@@ -103,4 +103,4 @@ author_profile: true
 * *SAANet: Siamese action-units attention network for improving dynamic facial expression recognition*.<br/> **Daizong Liu**, Xi Ouyang, Shuangjie Xu, Pan Zhou, Kun He, Shiping Wen.<br/> Neurocomputing, **[Neurocomputing]**
 
 2019
-* *MHP-VOS: Multiple hypotheses propagation for video object segmentation*.<br/> Shuangjie Xu, **Daizong Liu***, Linchao Bao, Wei Liu, Pan Zhou.<br/> IEEE Conference on Computer Vision and Pattern Recognition, **[CVPR2019]**
+* *MHP-VOS: Multiple hypotheses propagation for video object segmentation*.<br/> Shuangjie Xu, **Daizong Liu***, Linchao Bao, Wei Liu, Pan Zhou.<br/> IEEE Conference on Computer Vision and Pattern Recognition, **[CVPR2019][Oral]**
