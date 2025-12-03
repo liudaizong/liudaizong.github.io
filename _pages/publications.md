@@ -7,6 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 2026
+* *Active Cross-Task Knowledge Transfer Learning Framework for Semi-supervised Joint 3D Grounding and Captioning*.<br/> Yang Liu, **Daizong Liu***, Wei Hu, Baoquan Chen.<br/> IEEE Transactions on Multimedia, **[TMM]**
 * *Towards Unified Vision-Language Models With Incomplete Multi-Modal Inputs*.<br/> Xiang Fang, Wanlong Fang, Changshuo Wang, Keke Tang, **Daizong Liu**, Siyi Wang, Wei Ji.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026][Oral]**
 * *Rethinking Video-language Model From the Language Input Perspective*.<br/> Xiang Fang, Wanlong Fang, Changshuo Wang, Xiaoye Qu, **Daizong Liu**.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026][Oral]**
 * *Spatial-Spectral Homogeneous Attacks on Physical-World Large Vision-Language Models*.<br/> **Daizong Liu**, Baoquan Chen, Wei Hu.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026]**
