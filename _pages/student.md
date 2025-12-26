@@ -4,7 +4,7 @@ title: "Students"
 layout: archive
 ---
 
-## Students at Wuhan University (Primary Supervisor)
+## Students at Wuhan University
 
 Students for whom I serve as the primary supervisor at Wuhan University.
 
