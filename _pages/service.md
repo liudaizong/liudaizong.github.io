@@ -3,14 +3,14 @@ permalink: /service/
 title: "Academic Services "
 layout: archive
 ---
-Honor
+## Honor
 * NeurIPS2024 Top Reviewer
 * ACMMM2024 Outstanding Reviewer
 
-Conference Area Chair
+## Conference Area Chair
 * International Conference on Learning Representations (ICLR): 2026
 
-Conference Reviewer
+## Conference Reviewer
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR): 2022, 2023, 2024, 2025, 2026
 * IEEE International Conference on Computer Vision (ICCV): 2023, 2025
 * European Conference on Computer Vision (ECCV): 2022, 2024
@@ -22,7 +22,7 @@ Conference Reviewer
 * International Joint Conference on Artificial Intelligence (IJCAI): 2022, 2023, 2024, 2025
 * ACL Rolling: 2024, 2025
 
-Journal Reviewer
+## Journal Reviewer
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * International Journal of Computer Vision (IJCV)
 * IEEE Transactions on Image Processing (TIP)
