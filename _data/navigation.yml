@@ -14,6 +14,9 @@ main:
   - title: "Service"
     url: /service/    
 
+    - title: "Students"
+    url: /student/  
+
   # - title: "Teaching"
   #   url: /teaching/    
     
