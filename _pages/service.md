@@ -7,8 +7,9 @@ layout: archive
 * NeurIPS2024 Top Reviewer
 * ACMMM2024 Outstanding Reviewer
 
-## Conference Area Chair
+## Conference Area Chair/Senior Program Committee
 * International Conference on Learning Representations (ICLR): 2026
+* International Joint Conference on Artificial Intelligence (IJCAI): 2026
 
 ## Conference Reviewer
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR): 2022, 2023, 2024, 2025, 2026
@@ -20,7 +21,7 @@ layout: archive
 * ACM International Conference on Multimedia (ACM MM): 2021, 2022, 2023, 2024, 2025
 * AAAI Conference on Artificial Intelligence (AAAI): 2023, 2024, 2025, 2026
 * International Joint Conference on Artificial Intelligence (IJCAI): 2022, 2023, 2024, 2025, 2026
-* ACL Rolling: 2024, 2025, 2026
+* ACL Rolling: 2024, 2025
 
 ## Journal Reviewer
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
