@@ -14,7 +14,7 @@ layout: archive
 ## Conference Reviewer
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR): 2022, 2023, 2024, 2025, 2026
 * IEEE International Conference on Computer Vision (ICCV): 2023, 2025
-* European Conference on Computer Vision (ECCV): 2022, 2024
+* European Conference on Computer Vision (ECCV): 2022, 2024, 2026
 * Conference on Neural Information Processing Systems (NeurIPS): 2023, 2024, 2025
 * International Conference on Machine Learning (ICML): 2024, 2025, 2026
 * International Conference on Learning Representations (ICLR): 2024, 2025
