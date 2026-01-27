@@ -9,6 +9,7 @@ author_profile: true
 ## 2026
 * *FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting*.<br/> Zefeng He, Xiaoye Qu, Yafu Li, Siyuan Huang, **Daizong Liu**, Yu Cheng.<br/> The Fourteenth International Conference on Learning Representations, **[ICLR2026]**
 * *Spotlight on Token Perception for Multimodal Reinforcement Learning*.<br/> Siyuan Huang, Xiaoye Qu, Yafu Li, Yun Luo, Zefeng He, **Daizong Liu**, Yu Cheng.<br/> The Fourteenth International Conference on Learning Representations, **[ICLR2026]**
+* *Mitigating Multilingual Hallucination in Large Vision-Language Models*.<br/> Xiaoye Qu, Mingyang Song, Wei Wei, **Daizong Liu**, Jianfeng Dong, Yu Cheng.<br/> ACM Transactions on Multimedia Computing, Communications and Applications, **[TOMM]**
 * *Active Cross-Task Knowledge Transfer Learning Framework for Semi-supervised Joint 3D Grounding and Captioning*.<br/> Yang Liu, **Daizong Liu***, Wei Hu, Baoquan Chen.<br/> IEEE Transactions on Multimedia, **[TMM]**
 * *Towards Unified Vision-Language Models With Incomplete Multi-Modal Inputs*.<br/> Xiang Fang, Wanlong Fang, Changshuo Wang, Keke Tang, **Daizong Liu**, Siyi Wang, Wei Ji.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026][Oral]**
 * *Rethinking Video-language Model From the Language Input Perspective*.<br/> Xiang Fang, Wanlong Fang, Changshuo Wang, Xiaoye Qu, **Daizong Liu**.<br/> AAAI Conference on Artificial Intelligence, **[AAAI2026][Oral]**
