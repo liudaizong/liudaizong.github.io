@@ -7,7 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 ## 2026
-* *Generating Transferable Attacks across Large Vision-Language Models using Adversarial Deformation Learning*.<br/> **Daizong Liu***, Wangqin Liu, Xiaowen Cai, Pan Zhou, Runwei Guan, Xiaoye Qu, Bo Du.<br/> Pattern Recognition, **[PR]**
+* *Generating Transferable Attacks across Large Vision-Language Models using Adversarial Deformation Learning*.<br/> **Daizong Liu**, Wangqin Liu, Xiaowen Cai, Pan Zhou, Runwei Guan, Xiaoye Qu, Bo Du.<br/> Pattern Recognition, **[PR]**
 * *FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame Spotlighting*.<br/> Zefeng He, Xiaoye Qu, Yafu Li, Siyuan Huang, **Daizong Liu**, Yu Cheng.<br/> The Fourteenth International Conference on Learning Representations, **[ICLR2026]**
 * *Spotlight on Token Perception for Multimodal Reinforcement Learning*.<br/> Siyuan Huang, Xiaoye Qu, Yafu Li, Yun Luo, Zefeng He, **Daizong Liu**, Yu Cheng.<br/> The Fourteenth International Conference on Learning Representations, **[ICLR2026]**
 * *Mitigating Multilingual Hallucination in Large Vision-Language Models*.<br/> Xiaoye Qu, Mingyang Song, Wei Wei, **Daizong Liu**, Jianfeng Dong, Yu Cheng.<br/> ACM Transactions on Multimedia Computing, Communications and Applications, **[TOMM]**
