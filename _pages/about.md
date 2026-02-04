@@ -20,7 +20,7 @@ My broad research interests include Multimodal Reasoning, 3D Point Cloud Percept
 
 Latest News
 ======
-* [2026/01] One paper is accepted by Pattern Recognition!
+* [2026/01] One paper is accepted by PR!
 * [2026/01] I will serve as an SPC for IJCAI 2026!
 * [2025/11] Three papers are accepted by AAAI 2026!
 * [2025/09] Two papers are accepted by NeurIPS 2025!
