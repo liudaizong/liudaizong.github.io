@@ -7,7 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 ## 2026
-* *Are Large Vision-Language Models Robust to Adversarial Visual Transformations?*.<br/> **Daizong Liu***, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, and Wei Hu.<br/> IEEE Transactions on Information Forensics & Security, **[TIFS]**
+* *Are Large Vision-Language Models Robust to Adversarial Visual Transformations?*.<br/> **Daizong Liu**, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, and Wei Hu.<br/> IEEE Transactions on Information Forensics & Security, **[TIFS]**
 * *CAST: Context-Aware Dynamic Latent Space Transformation for Interactive Text-to-Image Retrieval*.<br/> Xuanzuo Lin, Min Zhang, **Daizong Liu#**, Zhiwen Zuo, Xun Yang, Changting Lin, Xun Wang, Jianfeng Dong.<br/> IEEE Conference on Computer Vision and Pattern Recognition, **[CVPR2026]**
 * *VideoSSR: Video Self-Supervised Reinforcement Learning*.<br/> Zefeng He, Xiaoye Qu, Yafu Li, Siyuan Huang, **Daizong Liu**, Yu Cheng.<br/> IEEE Conference on Computer Vision and Pattern Recognition, **[CVPR2026]**
 * *Generating Transferable Attacks across Large Vision-Language Models using Adversarial Deformation Learning*.<br/> **Daizong Liu**, Wangqin Liu, Xiaowen Cai, Pan Zhou, Runwei Guan, Xiaoye Qu, Bo Du.<br/> Pattern Recognition, **[PR]**
