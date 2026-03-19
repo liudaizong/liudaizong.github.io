@@ -7,6 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 ## 2026
+* *MMDrive: Interactive Scene Understanding Beyond Vision with Multi-representational Fusion*.<br/> Minghui Hou, Wei-Hsing Huang, Shaofeng Liang, **Daizong Liu**, Tai-Hao Wen, Gang Wang, Runwei Guan, Weiping Ding.<br/> Information Fusion, **[INFFUS]**
 * *From Part to Whole: 3D Generative World Model with an Adaptive Structural Hierarchy*.<br/> Bi'an Du, **Daizong Liu***, Pufan Li, Wei Hu.<br/> IEEE International Conference on Multimedia & Expo, **[ICME2026]**
 * *Are Large Vision-Language Models Robust to Adversarial Visual Transformations?*.<br/> **Daizong Liu**, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, Wei Hu.<br/> IEEE Transactions on Information Forensics & Security, **[TIFS]**
 * *CAST: Context-Aware Dynamic Latent Space Transformation for Interactive Text-to-Image Retrieval*.<br/> Xuanzuo Lin, Min Zhang, **Daizong Liu#**, Zhiwen Zuo, Xun Yang, Changting Lin, Xun Wang, Jianfeng Dong.<br/> IEEE Conference on Computer Vision and Pattern Recognition, **[CVPR2026]**
