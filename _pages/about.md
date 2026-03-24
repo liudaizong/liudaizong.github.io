@@ -20,6 +20,7 @@ My broad research interests include Multimodal Reasoning, 3D Point Cloud Percept
 
 Latest News
 ======
+* [2026/03] I will serve as an Area Chair for NeurIPS 2026!
 * [2026/02] One paper is accepted by TIFS!
 * [2026/02] Two papers are accepted by CVPR 2026!
 * [2026/01] One paper is accepted by PR!
