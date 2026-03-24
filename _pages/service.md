@@ -8,6 +8,7 @@ layout: archive
 * ACMMM2024 Outstanding Reviewer
 
 ## Conference Area Chair/Senior Program Committee
+* Conference on Neural Information Processing Systems (NeurIPS): 2026
 * International Conference on Learning Representations (ICLR): 2026
 * International Joint Conference on Artificial Intelligence (IJCAI): 2026
 
