@@ -20,6 +20,8 @@ My broad research interests include Multimodal Reasoning, 3D Point Cloud Percept
 
 Latest News
 ======
+* [2026/05] Two papers are accepted by ICML 2026!
+* [2026/05] One paper is accepted by IJCAI 2026!
 * [2026/04] One paper is accepted by ACL 2026!
 * [2026/03] I will serve as an Area Chair for NeurIPS 2026!
 * [2026/02] One paper is accepted by TIFS!
