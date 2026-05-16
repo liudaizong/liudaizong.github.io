@@ -7,6 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 ## 2026
+* *Hard-Label Black-Box Attacks on 3D Point Clouds*.<br/> **Daizong Liu**, Yunbo Tao, Junhao Dong, Keke Tang, Pan Zhou, Wei Hu, Yew-Soon Ong.<br/> IEEE Transactions on Dependable and Secure Computing, **[TDSC]**
 * *Newton-coupled Dual-Teacher Semi-supervised Learning Framework*.<br/> Hongyang He, Yan Zhong, Xinyuan Song, **Daizong Liu#**, Xuanyu Liu, Victor Sanchez.<br/> The Forty-Third International Conference on Machine Learning, **[ICML2026]**
 * *Attacking Gray-Box Large Vision-Language Models with Adaptive SVD-Structured Adversarial Alignment*.<br/> **Daizong Liu**, Xiaowen Cai, Junhao Dong, Zhongliang Guo, Xiaoye Qu, Runwei Guan, Xiang Fang, Dengpan Ye.<br/> The Forty-Third International Conference on Machine Learning, **[ICML2026]**
 * *Understanding and Exploiting Phase Sensitivity for Attacking Large Vision–Language Models*.<br/> **Daizong Liu**, Junhao Dong, Xiang Fang, Hongyang He, Keyan Jin, Zhongliang Guo, Xiaoye Qu, Keke Tang.<br/> The 35th International Joint Conference on Artificial Intelligence, **[IJCAI2026]**
