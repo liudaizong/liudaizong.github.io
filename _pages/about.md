@@ -20,6 +20,7 @@ My broad research interests include Multimodal Reasoning, 3D Point Cloud Percept
 
 Latest News
 ======
+* [2026/06] Two papers are accepted by ECCV 2026!
 * [2026/05] One paper is accepted by TDSC!
 * [2026/05] Two papers are accepted by ICML 2026!
 * [2026/05] One paper is accepted by IJCAI 2026!
