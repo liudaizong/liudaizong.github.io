@@ -7,7 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 ## 2026
-* *HHA: Hierarchical Hyperbolic Constraints for Imperceptible Point Cloud Attacks*.<br/> Keke Tang, Yu Liao, Weilong Peng, Xiaofei Wang, Daizong Liu, Zhongyun Hua, Peican Zhu, Zhihong Tian.<br/> European Conference on Computer Vision, **[ECCV2026]**
+* *HHA: Hierarchical Hyperbolic Constraints for Imperceptible Point Cloud Attacks*.<br/> Keke Tang, Yu Liao, Weilong Peng, Xiaofei Wang, **Daizong Liu**, Zhongyun Hua, Peican Zhu, Zhihong Tian.<br/> European Conference on Computer Vision, **[ECCV2026]**
 * *Geometric Regularization for Long-Tailed Semi-Supervised Learning via Gaussian Feature Bridges*.<br/> Hongyang He, Xinyuan Song, Yan Zhong, **Daizong Liu#**, Yanbin Li, Yangfan He, Wenqiao Zhang.<br/> European Conference on Computer Vision, **[ECCV2026]**
 * *Attacking Hard-Label Large Vision-Language Models with Model-Sensitive Adversarial Patch Designs*.<br/> Nian Ai, Guangke Chen, Xiaowen Cai, Zhongliang Guo, **Daizong Liu#**, Pan Zhou, Ognjen Arandjelović.<br/> Pattern Recognition, **[PR]**
 * *Hard-Label Black-Box Attacks on 3D Point Clouds*.<br/> **Daizong Liu**, Yunbo Tao, Junhao Dong, Keke Tang, Pan Zhou, Wei Hu, Yew-Soon Ong.<br/> IEEE Transactions on Dependable and Secure Computing, **[TDSC]**
