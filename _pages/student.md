@@ -26,11 +26,15 @@ Students whom I co-supervise or collaborate with at other institutions.
   * Co-supervised with Prof. Wei Hu
   * Publications: ACMMM 2023, ACMMM 2024, ACMMM 2025
 
-* Xiaowen Cai, Ph.D. candidate, Huazhong University of Science and Technology (2024-)
+* Xiaowen Cai, Ph.D. candidate, Huazhong University of Science and Technology (2024-2026)
   * Co-supervised with Prof. Pan Zhou
-  * Publications: NeurIPS 2025, ACMMM 2024, ICASSP 2025
+  * Publications: TIFS 2026, NeurIPS 2025, ACMMM 2024, ICASSP 2025
 
 ### Master’s / Visiting Students
+
+* Ziji Sheng, M.S. candidate, Huazhong University of Science and Technology (2025-2027)
+  * Co-supervised with Prof. Pan Zhou
+  * Publications: ACL 2026
 
 * Hai Yan, M.S. candidate, Huazhong University of Science and Technology (2025-2026)
   * Co-supervised with Prof. Pan Zhou
