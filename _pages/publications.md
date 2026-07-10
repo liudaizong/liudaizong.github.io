@@ -7,6 +7,9 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 ## 2026
+* *When Efficiency Becomes Fragility: Exploiting Dynamic Routing Vulnerabilities in Adaptive UAV Tracking*.<br/> Shaofeng Liang, Runwei Guan, Wenshuo Chen, Jiemin Wu, Bowen Tian, Haozhe Jia, Kaishen Yuan, Songning Lai, **Daizong Liu**, Yutao Yue.<br/> ACM International Conference on Multimedia, **[ACMMM2026]**
+* *Mitigating Hallucinations in Large Multimodal Reasoning Models by Regulating Parametric Prior Drift*.<br/> Xiaoye Qu, Yanzhe Wu, Zhihao Xie, **Daizong Liu**, Wei Wei.<br/> ACM International Conference on Multimedia, **[ACMMM2026]**
+* *Multi-Layer Diffusion Strategy for Multi-IP Interaction-Aware Human Erasing*.<br/> Jinghan Yu, Junhao Xiao, Zhiyuan Ma, Yue Ma, Kaiqi Liu, Yuhan Wang, **Daizong Liu**, Xianghao Meng, Jianjun Li.<br/> ACM International Conference on Multimedia, **[ACMMM2026]**
 * *HHA: Hierarchical Hyperbolic Constraints for Imperceptible Point Cloud Attacks*.<br/> Keke Tang, Yu Liao, Weilong Peng, Xiaofei Wang, **Daizong Liu**, Zhongyun Hua, Peican Zhu, Zhihong Tian.<br/> European Conference on Computer Vision, **[ECCV2026]**
 * *Geometric Regularization for Long-Tailed Semi-Supervised Learning via Gaussian Feature Bridges*.<br/> Hongyang He, Xinyuan Song, Yan Zhong, **Daizong Liu#**, Yanbin Li, Yangfan He, Wenqiao Zhang.<br/> European Conference on Computer Vision, **[ECCV2026]**
 * *Attacking Hard-Label Large Vision-Language Models with Model-Sensitive Adversarial Patch Designs*.<br/> Nian Ai, Guangke Chen, Xiaowen Cai, Zhongliang Guo, **Daizong Liu#**, Pan Zhou, Ognjen Arandjelović.<br/> Pattern Recognition, **[PR]**
