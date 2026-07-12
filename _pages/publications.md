@@ -7,6 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 ## 2026
+* *Forbid Your Attention: Fooling Multimodal Large Language Models by Selectively Removing Intrinsic Focus in Spectral Domain*.<br/> **Daizong Liu**, Junhao Dong, Zhiyuan Ma, Xiaoye Qu, Xiang Fang, Runwei Guan, Keke Tang, Jianfeng Dong, and Yew-Soon Ong.<br/> IEEE Transactions on Multimedia, **[TMM]**
 * *When Efficiency Becomes Fragility: Exploiting Dynamic Routing Vulnerabilities in Adaptive UAV Tracking*.<br/> Shaofeng Liang, Runwei Guan, Wenshuo Chen, Jiemin Wu, Bowen Tian, Haozhe Jia, Kaishen Yuan, Songning Lai, **Daizong Liu**, Yutao Yue.<br/> ACM International Conference on Multimedia, **[ACMMM2026]**
 * *Mitigating Hallucinations in Large Multimodal Reasoning Models by Regulating Parametric Prior Drift*.<br/> Xiaoye Qu, Yanzhe Wu, Zhihao Xie, **Daizong Liu**, Wei Wei.<br/> ACM International Conference on Multimedia, **[ACMMM2026]**
 * *Multi-Layer Diffusion Strategy for Multi-IP Interaction-Aware Human Erasing*.<br/> Jinghan Yu, Junhao Xiao, Zhiyuan Ma, Yue Ma, Kaiqi Liu, Yuhan Wang, **Daizong Liu**, Xianghao Meng, Jianjun Li.<br/> ACM International Conference on Multimedia, **[ACMMM2026]**
