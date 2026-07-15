@@ -1,6 +1,6 @@
 ---
 permalink: /portfolio/
-title: "Honors"
+title: "Awards"
 layout: archive
 ---
 
