@@ -34,7 +34,6 @@ Latest News
 * [2025/11] Three papers are accepted by AAAI 2026!
 * [2025/09] Two papers are accepted by NeurIPS 2025!
 * [2025/09] I will serve as an Area Chair for ICLR 2026!
-* [2025/08] Two papers are accepted by EMNLP 2025!
 * [2025/07] Two papers are accepted by ACMMM 2025!
 * [2025/06] One paper is accepted by ICCV 2025!
 * [2025/03] One paper is accepted by CVPR 2025!
