@@ -9,7 +9,7 @@ layout: archive
 
 ## Conference Area Chair/Senior Program Committee
 * Conference on Neural Information Processing Systems (NeurIPS): 2026
-* International Conference on Learning Representations (ICLR): 2026
+* International Conference on Learning Representations (ICLR): 2026, 2027
 * AAAI Conference on Artificial Intelligence (AAAI): 2027
 * International Joint Conference on Artificial Intelligence (IJCAI): 2026
 
