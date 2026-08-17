@@ -4,6 +4,7 @@ title: "Academic Services "
 layout: archive
 ---
 ## Honor
+* Reviewer Excellence Certificate of Pattern Recognition
 * NeurIPS2024 Top Reviewer
 * ACMMM2024 Outstanding Reviewer
 
