@@ -39,3 +39,15 @@ Latest News
 * [2025/07] Two papers are accepted by ACMMM 2025!
 * [2025/06] One paper is accepted by ICCV 2025!
 * [2025/03] One paper is accepted by CVPR 2025!
+
+## Representative Works
+* *Imperceptible Transfer Attack and Defense on 3D Point Cloud Classification*.<br/> **Daizong Liu**, Wei Hu.<br/> IEEE Transactions on Pattern Analysis and Machine Intelligence, **[TPAMI]**
+* *Point Cloud Attacks in Graph Spectral Domain: When 3D Geometry Meets Graph Signal Processing*.<br/> **Daizong Liu**, Wei Hu, Xin Li.<br/> IEEE Transactions on Pattern Analysis and Machine Intelligence, **[TPAMI]**
+* *Are Large Vision-Language Models Robust to Adversarial Visual Transformations?*.<br/> **Daizong Liu**, Xiaowen Cai, Pan Zhou, Xiaoye Qu, Lichao Sun, Wei Hu.<br/> IEEE Transactions on Information Forensics & Security, **[TIFS]**
+* *Hard-Label Black-Box Attacks on 3D Point Clouds*.<br/> **Daizong Liu**, Yunbo Tao, Junhao Dong, Keke Tang, Pan Zhou, Wei Hu, Yew-Soon Ong.<br/> IEEE Transactions on Dependable and Secure Computing, **[TDSC]**
+* *Context-aware Biaffine Localizing Network for Temporal Sentence Grounding*.<br/> **Daizong Liu**, Xiaoye Qu, Jianfeng Dong, Pan Zhou, Yu Cheng, Wei Wei, Zichuan Xu, Yulai Xie.<br/> IEEE Conference on Computer Vision and Pattern Recognition, **[CVPR2021]**
+* *Seeing is Not Believing: Adversarial Natural Object Optimization for Hard-Label 3D Scene Attacks*.<br/> **Daizong Liu**, Wei Hu.<br/> IEEE Conference on Computer Vision and Pattern Recognition, **[CVPR2025]**
+* *Pandora’s Box: Towards Building Universal Attackers against Real-World Large Vision-Language Models*.<br/> **Daizong Liu**, Mingyu Yang, Xiaoye Qu, Pan Zhou, Xiang Fang, Keke Tang, Yao Wan, Lichao Sun.<br/> The Thirty-eighth Annual Conference on Neural Information Processing Systems, **[NeurIPS2024]**
+* *Fit the Distribution: Cross-Image/Prompt Adversarial Attacks on Multimodal Large Language Models*.<br/> Hai Yan, Haijian Ma, Xiaowen Cai, **Daizong Liu#**, Zenghui Yuan, Xiaoye Qu, Jianfeng Dong, Runwei Guan, Xiang Fang, Hongyang He, Yulai Xie, Pan Zhou.<br/> The Thirty-ninth Annual Conference on Neural Information Processing Systems, **[NeurIPS2025]**
+* *Attacking Gray-Box Large Vision-Language Models with Adaptive SVD-Structured Adversarial Alignment*.<br/> **Daizong Liu**, Xiaowen Cai, Junhao Dong, Zhongliang Guo, Xiaoye Qu, Runwei Guan, Xiang Fang, Dengpan Ye.<br/> The Forty-Third International Conference on Machine Learning, **[ICML2026]**
+* *Newton-coupled Dual-Teacher Semi-supervised Learning Framework*.<br/> Hongyang He, Yan Zhong, Xinyuan Song, **Daizong Liu#**, Xuanyu Liu, Victor Sanchez.<br/> The Forty-Third International Conference on Machine Learning, **[ICML2026]**
