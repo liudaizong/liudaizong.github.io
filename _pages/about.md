@@ -17,6 +17,7 @@ My broad research interests include Multimodal Reasoning, 3D Point Cloud Percept
 * AI security (Adversarial robustness, backdoor attack)
 
 **We are always actively recruiting interns and prospective graduate students! Welcome to contact me (daizongliu@whu.edu.cn) with your detailed CV!**
+（招收27级硕士博士生！每年在武汉大学计算机学院有1个学博名额，2-3个学/专硕名额；在湖北应用数学中心有2个专硕名额。欢迎邮件联系！）
 
 Latest News
 ======
