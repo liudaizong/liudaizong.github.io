@@ -7,7 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 ## 2026
-* *A survey on AI agent security: Reasoning, acting, and self-evolving*.<br/> **Daizong Liu#**, Tianyao Luo, Shuwei Huang, Junyi Yang, Siyuan Liang, Xiaojun Jia, Chun Pong Lau, Jianfeng Dong, Yan Liu, Yang Bai, Xun Chen, Shiji Zhou, Ognjen Arandelović, Stefanos Koffas, Zhongliang Guo, Runwei Guan, Pan Zhou, Zhibo Wang, Zhan Qin, Bo Du, Hui Xiong, Pin-Yu Chen, Josep Domingo-Ferrer, and Yiming Li.<br/> The Innovation AIPLUS, **[AIPLUS]**
+* *A Survey on AI Agent Security: Reasoning, Acting, and Self-Evolving*.<br/> **Daizong Liu#**, Tianyao Luo, Shuwei Huang, Junyi Yang, Siyuan Liang, Xiaojun Jia, Chun Pong Lau, Jianfeng Dong, Yan Liu, Yang Bai, Xun Chen, Shiji Zhou, Ognjen Arandelović, Stefanos Koffas, Zhongliang Guo, Runwei Guan, Pan Zhou, Zhibo Wang, Zhan Qin, Bo Du, Hui Xiong, Pin-Yu Chen, Josep Domingo-Ferrer, and Yiming Li.<br/> The Innovation AIPLUS, **[AIPLUS]**
 * *An Image Is Worth Ten Thousand Words: Verbose-Text Induction Attacks on VLMs*.<br/> Zhi Luo, Zenghui Yuan, **Daizong Liu#**, Wenqi Wei, Pan Zhou.<br/> Conference on Empirical Methods in Natural Language Processing, **[EMNLP2026]**
 * *Rethinking 3D Point Cloud Adversarial Attacks from Models’ Inherent Focus*.<br/> Li Yang, Xiaowen Cai, Shuqin Chen, Junhao Dong, Keke Tang, Zhongliang Guo, **Daizong Liu#**.<br/> Expert Systems With Applications, **[ESWA]**
 * *Forbid Your Attention: Fooling Multimodal Large Language Models by Selectively Removing Intrinsic Focus in Spectral Domain*.<br/> **Daizong Liu**, Junhao Dong, Zhiyuan Ma, Xiaoye Qu, Xiang Fang, Runwei Guan, Keke Tang, Jianfeng Dong, and Yew-Soon Ong.<br/> IEEE Transactions on Multimedia, **[TMM]**
