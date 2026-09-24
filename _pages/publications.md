@@ -7,6 +7,8 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 ## 2026
+* *Cross-Model Transfer Attacks against Large Vision-Language Models via Model Diversity Enrichment and Stochastic Parameter Sampling*.<br/> ZZhenze Yang, Xiaowen Cai, Junhao Dong, Guangke Chen, Guiyao Tie, **Daizong Liu#**, Hongyang He, Zhiyuan Ma, Xiang Fang, Dengpan Ye, Jing Zhang.<br/> The Thirty-ninth Annual Conference on Neural Information Processing Systems, **[NeurIPS2026]**
+* *Object Hallucination Mitigation in Large Vision-Language Models via Self-Vision Dual Masking and Uncertainty-Triggered Assembly*.<br/> Ziji Sheng, Guiyao Tie, Weidong Wang, Jiawen Shi, Junhao Dong, Xiaoye Qu, Shanshan Ye, **Daizong Liu#**, Dengpan Ye, Pan Zhou, Jing Zhang.<br/> The Thirty-ninth Annual Conference on Neural Information Processing Systems, **[NeurIPS2026]**
 * *A Survey on AI Agent Security: Reasoning, Acting, and Self-Evolving*.<br/> **Daizong Liu**, Tianyao Luo, Shuwei Huang, Junyi Yang, Siyuan Liang, Xiaojun Jia, Chun Pong Lau, Jianfeng Dong, Yan Liu, Yang Bai, Xun Chen, Shiji Zhou, Ognjen Arandelović, Stefanos Koffas, Zhongliang Guo, Runwei Guan, Pan Zhou, Zhibo Wang, Zhan Qin, Bo Du, Hui Xiong, Pin-Yu Chen, Josep Domingo-Ferrer, and Yiming Li.<br/> The Innovation AI Plus, **[AI Plus]**
 * *An Image Is Worth Ten Thousand Words: Verbose-Text Induction Attacks on VLMs*.<br/> Zhi Luo, Zenghui Yuan, **Daizong Liu#**, Wenqi Wei, Pan Zhou.<br/> Conference on Empirical Methods in Natural Language Processing, **[EMNLP2026]**
 * *Rethinking 3D Point Cloud Adversarial Attacks from Models’ Inherent Focus*.<br/> Li Yang, Xiaowen Cai, Shuqin Chen, Junhao Dong, Keke Tang, Zhongliang Guo, **Daizong Liu#**.<br/> Expert Systems With Applications, **[ESWA]**
