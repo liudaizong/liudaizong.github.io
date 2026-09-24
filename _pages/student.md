@@ -34,7 +34,7 @@ Students whom I co-supervise or collaborate with at other institutions.
 
 * Ziji Sheng, M.S. candidate, Huazhong University of Science and Technology (2025-2027)
   * Co-supervised with Prof. Pan Zhou
-  * Publications: ACL 2026
+  * Publications: ACL 2026, NeurIPS2026
 
 * Hai Yan, M.S. candidate, Huazhong University of Science and Technology (2025-2026)
   * Co-supervised with Prof. Pan Zhou
