@@ -21,26 +21,26 @@ My broad research interests include Multimodal Reasoning, 3D Point Cloud Percept
 
 Latest News
 ======
-* [2026/10] One paper is accepted by TPAMI!
-* [2026/09] Three papers are accepted by NeurIPS 2026!
-* [2026/08] I will serve as an Area Chair for ICLR 2027!
-* [2026/07] I will serve as an Area Chair for AAAI 2027!
-* [2026/07] One paper is accepted by TMM!
-* [2026/06] Two papers are accepted by ECCV 2026!
-* [2026/05] One paper is accepted by TDSC!
-* [2026/05] Two papers are accepted by ICML 2026!
-* [2026/04] One paper is accepted by ACL 2026!
-* [2026/03] I will serve as an Area Chair for NeurIPS 2026!
-* [2026/02] One paper is accepted by TIFS!
-* [2026/02] Two papers are accepted by CVPR 2026!
-* [2026/01] I will serve as an SPC for IJCAI 2026!
-* [2025/12] One paper is accepted by TMM!
-* [2025/11] Three papers are accepted by AAAI 2026!
-* [2025/09] Two papers are accepted by NeurIPS 2025!
-* [2025/09] I will serve as an Area Chair for ICLR 2026!
-* [2025/07] Two papers are accepted by ACMMM 2025!
-* [2025/06] One paper is accepted by ICCV 2025!
-* [2025/03] One paper is accepted by CVPR 2025!
+* [2026/10] One paper is accepted by TPAMI.
+* [2026/09] Three papers are accepted by NeurIPS 2026.
+* [2026/08] I will serve as an Area Chair for ICLR 2027.
+* [2026/07] I will serve as an Area Chair for AAAI 2027.
+* [2026/07] One paper is accepted by TMM.
+* [2026/06] Two papers are accepted by ECCV 2026.
+* [2026/05] One paper is accepted by TDSC.
+* [2026/05] Two papers are accepted by ICML 2026.
+* [2026/04] One paper is accepted by ACL 2026.
+* [2026/03] I will serve as an Area Chair for NeurIPS 2026.
+* [2026/02] One paper is accepted by TIFS.
+* [2026/02] Two papers are accepted by CVPR 2026.
+* [2026/01] I will serve as an SPC for IJCAI 2026.
+* [2025/12] One paper is accepted by TMM.
+* [2025/11] Three papers are accepted by AAAI 2026.
+* [2025/09] Two papers are accepted by NeurIPS 2025.
+* [2025/09] I will serve as an Area Chair for ICLR 2026.
+* [2025/07] Two papers are accepted by ACMMM 2025.
+* [2025/06] One paper is accepted by ICCV 2025.
+* [2025/03] One paper is accepted by CVPR 2025.
 
 ## Representative Works
 * *Imperceptible Transfer Attack and Defense on 3D Point Cloud Classification*.<br/> **Daizong Liu**, Wei Hu.<br/> IEEE Transactions on Pattern Analysis and Machine Intelligence, **[TPAMI]**
