@@ -12,6 +12,12 @@ Students for whom I serve as the primary supervisor at Wuhan University.
 
 ### Master’s Students
 
+* Runze Cai, M.S. candidate, Wuhan University (2026-2028)
+
+* Kai Zhang, M.S. candidate, Wuhan University (2026-2028)
+
+* Chao Liang, M.S. candidate, Wuhan University (2026-2028)
+
 ## Co-supervised Students
 
 Students whom I co-supervise or collaborate with at other institutions.
@@ -31,6 +37,10 @@ Students whom I co-supervise or collaborate with at other institutions.
   * Publications: NeurIPS 2026, TIFS 2026, NeurIPS 2025, ACMMM 2024, ICASSP 2025
 
 ### Master’s / Visiting Students
+
+* Tianyao Luo, M.S. candidate, Huazhong University of Science and Technology (2025-2027)
+  * Co-supervised with Prof. Pan Zhou
+  * Publications: TPAMI, The Innovation AI Plus
 
 * Ziji Sheng, M.S. candidate, Huazhong University of Science and Technology (2025-2027)
   * Co-supervised with Prof. Pan Zhou
