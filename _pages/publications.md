@@ -7,6 +7,7 @@ author_profile: true
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
 ## 2026
+* *Attacking Gray-box Large Vision-Language Models with Cross-Modal Semantic Masking and Misleading*.<br/> **Daizong Liu**, Jianfeng Dong, Qingxiong Tan, Runwei Guan, Keke Tang, Xiang Fang, Dengpan Ye.<br/> IEEE Transactions on Multimedia, **[TMM]**
 * *ABRR: Transforming Temporal Sentence Grounding with Wasserstein-Adaptive Refinement and Precision Ranking*.<br/> Xiang Fang, Wanlong Fang, Junhao Dong, **Daizong Liu#**.<br/> IEEE Transactions on Multimedia, **[TMM]**
 * *Flexible Targeted Adversarial Alignment with Frequency-based Visual Focus for Attacking Large Vision-Language Models*.<br/> **Daizong Liu**, Tianyao Luo, Junhao Dong, Xiaowen Cai, Hao He, Weidong Wang, Runwei Guan, Jianfeng Dong, Pan Zhou, Bo Du, Hui Xiong.<br/> IEEE Transactions on Pattern Analysis and Machine Intelligence, **[TPAMI]**
 * *Cross-Model Transfer Attacks against Large Vision-Language Models via Model Diversity Enrichment and Stochastic Parameter Sampling*.<br/> Zhenze Yang, Xiaowen Cai, Junhao Dong, Guangke Chen, Guiyao Tie, **Daizong Liu#**, Hongyang He, Zhiyuan Ma, Xiang Fang, Dengpan Ye, Jing Zhang.<br/> The Fortieth Annual Conference on Neural Information Processing Systems, **[NeurIPS2026]**
