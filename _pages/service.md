@@ -14,6 +14,9 @@ layout: archive
 * AAAI Conference on Artificial Intelligence (AAAI): 2027
 * International Joint Conference on Artificial Intelligence (IJCAI): 2026
 
+## Journal Associate Editor
+* Pattern Recognition (PR)
+
 ## Conference Reviewer
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR): 2022, 2023, 2024, 2025, 2026
 * IEEE International Conference on Computer Vision (ICCV): 2023, 2025
