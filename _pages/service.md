@@ -14,7 +14,7 @@ layout: archive
 * International Conference on Machine Learning (ICML): 2027
 * AAAI Conference on Artificial Intelligence (AAAI): 2027
 * ACL Rolling Review (ARR): 2026
-* International Joint Conference on Artificial Intelligence (IJCAI): 2026
+* International Joint Conference on Artificial Intelligence (IJCAI): 2026, 2027
 
 ## Journal Associate Editor
 * Pattern Recognition (PR)
