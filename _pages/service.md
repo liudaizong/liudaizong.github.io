@@ -30,6 +30,7 @@ layout: archive
 * AAAI Conference on Artificial Intelligence (AAAI): 2023, 2024, 2025, 2026
 * International Joint Conference on Artificial Intelligence (IJCAI): 2022, 2023, 2024, 2025
 * ACL Rolling Review (ARR): 2024, 2025, 2026
+* The International World Wide Web Conference (WWW): 2027
 
 ## Journal Reviewer
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
