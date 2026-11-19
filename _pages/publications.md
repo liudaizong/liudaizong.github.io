@@ -6,6 +6,9 @@ author_profile: true
 ---
 *denotes the Co-First Authorship, #denotes the Corresponding Author
 
+## 2027
+* *Affect-Preserving Diffusion Perturbations for Trustworthy Affective Computing*.<br/> Zhongliang Guo, Yan Lin, Chun Tong Lei, Yifei Qian, Shuai Zhao, Liangfei Zhang, **Daizong Liu#**, Lei Fang, Ognjen Arandelović, Chun Pong Lau.<br/> IEEE Transactions on Affective Computing, **[TAFFC]**
+
 ## 2026
 * *LEAD++: Unsupervised Fine-grained Visual Representation Learning with Multi-context Enhanced Entropy-based Adaptive Distillation*.<br/> Jianfeng Dong, Zihao Zhang, **Daizong Liu#**, Shujie Chen, Jie Sun, Cuizhu Bao, Xun Yang, Meng Wang.<br/> International Journal of Computer Vision, **[IJCV]**
 * *Attacking Gray-box Large Vision-Language Models with Cross-Modal Semantic Masking and Misleading*.<br/> **Daizong Liu**, Jianfeng Dong, Qingxiong Tan, Runwei Guan, Keke Tang, Xiang Fang, Dengpan Ye.<br/> IEEE Transactions on Multimedia, **[TMM]**
